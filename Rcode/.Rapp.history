@@ -1,0 +1,39 @@
+chisq.test(x = table(c(56,66,77.77, 80)))
+chisq.test(x = table(c(56,66,77.77, 80)))
+table(c(56,66,77.77, 80)
+)
+M <- as.table(rbind(c(56,66), c(77.77, 80))))#
+Xsq <- chisq.test(M)#
+df <- min(dim(M)) - 1#
+Cramers_V(chi = Xsq$statistic, n = sum(M), df = df)
+M <- as.table(rbind(c(56,66), c(77.77, 80)))#
+Xsq <- chisq.test(M)#
+df <- min(dim(M)) - 1#
+Cramers_V(chi = Xsq$statistic, n = sum(M), df = df)
+clear
+clear()
+M <- as.table(rbind(c(56,66), c(77.77, 80)))
+M <- as.table(rbind(c(56,66), c(77.77, 80)))
+Xsq <- chisq.test(M)
+Xsq
+df <- min(dim(M)) - 1
+Cramers_V(chi = Xsq$statistic, n = sum(M), df = df)
+Cramers_V <- function(chi, n, df) sqrt((chi)/(n * df))
+Cramers_V(chi = Xsq$statistic, n = sum(M), df = df)
+?cohenW
+pwr.chisq.test(w=0.3, df=(4-1),sig.level=0.05)
+library(pwr)
+pwr.chisq.test(w=0.3, df=(4-1),sig.level=0.05)
+pwr.chisq.test(w=0.3, df=(4-1),N=4,sig.level=0.05)
+M
+phi = ((56*66) - (77.77*80))/sqrt((56+66)*(77.77+80)*(56+77.77)*(66+80))
+phi
+Xsq
+M <- as.table(rbind(c(56,66), c(77.77)))
+Xsq <- chisq.test(M)
+Xsq <- chisq.test(M)
+Xsq
+M <- as.table(rbind(c(56,66), c(77.77, 80)))
+Xsq <- chisq.test(M)
+Xsq
+df <- min(dim(M)) - 1
