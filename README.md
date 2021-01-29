@@ -26,14 +26,7 @@ Development
 
 The data contain information about patients' productions that may be employed to identify the patients. Therefore, they cannot be released in this project, based on the Ethics Agreement. Nevertheless, you may use the code using your own data.
 
-# Ethics
-
-Ethic approvals for the study were obtained by the local ethical committee review board (reference number: L091-99, 1999; T479-11, 2011); while the currently described study was approved by the local ethical committee decision 206-16, 2016. For more information see Riksbankens Jubileumsfond – The Swedish Foundation for Humanities and Social Sciences, through the grant agreement no: NHS 14-1761:1.
-
-# Funding
-We thank our funding resources for their support: the Science of Learning Institute grant ‘Effects of tDCS in PPA’ from Johns Hopkins University to KT, and NIH/NIDCD R01 DC14475 to KT. We thank Ms. Olivia Hermann for her assistance in this work. 
-
-Conflict of Interest Statement
+# Conflict of Interest Statement
 
 The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
 
